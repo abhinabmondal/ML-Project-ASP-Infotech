@@ -94,7 +94,7 @@ python detect.py
   <kbd>Abhinab Mondal</kbd>
 </p>
 
-Team B:
+Team:
 <p>
   <kbd>Sneha</kbd>
   <kbd>Mehuli</kbd>
