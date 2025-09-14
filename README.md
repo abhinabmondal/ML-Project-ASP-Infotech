@@ -90,16 +90,13 @@ python detect.py
 👥 Team Size: 3 Members
 
  Lead:
-<p>
-  <kbd>Abhinab Mondal</kbd>
-</p>
+
+| Abhinab Mondal | 
+|----------------|
 
 Team:
-<p>
-  <kbd>Sneha</kbd>
-  <kbd>Mehuli</kbd>
-</p>
-
+| Sneha | Mehuli | 
+|-----------|----------------|
 
 ✅ Contributed to model development and testing
 
