@@ -4,7 +4,7 @@
 
 # 🎯 Object Detection using Python & ML Libraries
 
-This repository contains the Machine Learning Project on Object Detection, developed during my internship at ASP-InfoTech Pvt. Ltd., Durgapur, West Bengal.
+This repository contains the Machine Learning Project on Object Detection, developed during my internship at ASP-InfoTech Pvt. Ltd, Durgapur, West Bengal.
 
 The project was a group project, carried out under the guidance of Mr. Harishankar Chatterjee.
 
@@ -88,6 +88,18 @@ python detect.py
 📌 Role: Leader
 
 👥 Team Size: 3 Members
+
+ Lead:
+<p>
+  <kbd>Abhinab Mondal</kbd>
+</p>
+
+Team B:
+<p>
+  <kbd>Sneha</kbd>
+  <kbd>Mehuli</kbd>
+</p>
+
 
 ✅ Contributed to model development and testing
 
